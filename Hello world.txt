@@ -1,8 +1,8 @@
 print("Hello World!;")
 print("Hello Everybody!;")
 
-print("Hello My Dear Friend;")!
-print("Glad to see you;")!
+print("Hello My Dear Friend");
+print("Glad to see you");
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Vestibulum fermentum justo a metus fringilla dignissim.
