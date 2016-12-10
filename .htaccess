@@ -6,3 +6,5 @@ php_value display_errors 1
 php_value xcache.cacher Off
 php_value xcache.stat Off
 php_value xcache.optimizer Off
+
+AddType application/x-httpd-php .html .htm
